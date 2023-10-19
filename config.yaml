@@ -38,9 +38,9 @@ params:
   headingFontFamily: sans-serif
   logo: /img/logo.png
   mainSections:
-    - blog
-    - project
-    - talk
+    - news
+    - research projects
+    - people
   math:
     renderer: katex
   navallcaps: yes
@@ -91,21 +91,20 @@ menu:
       weight: 1
     - name: News
       title: News Posts
-      url: /blog/
-      weight: 3
+      url: /news/
+      weight: 4
     - name: Research
       title: Research Projects
       url: /project/
       weight: 2
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
+    - name: People
+      title: People
+      url: /people/
+      weight: 3
+    - name: Join Us
+      title: Join us
+      url: /join-us/
       weight: 5
-
 privacy:
   disqus:
     disable: no

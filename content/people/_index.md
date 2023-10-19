@@ -1,6 +1,6 @@
 ---
-title: Research Projects
-description: "For more detail on specific research areas, click on the links below:"
+title: People
+description: ""
 author: ""
 show_post_thumbnail: true
 show_author_byline: false
@@ -28,8 +28,9 @@ cascade:
   show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout only
   sidebar:
-    text_link_label: View all projects
-    text_link_url: /project/
+    text_link_label: View Lab Members
+    text_link_url: /people/
     show_sidebar_adunit: true # show ad container
 ---
+
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

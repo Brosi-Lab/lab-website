@@ -54,9 +54,7 @@ params:
     - icon: instagram
       icon_pack: fab
       url: https://www.instagram.com/brosilab/?hl=en 
-    - icon: twitter
-      icon_pack: fab
-      url: https://twitter.com/BrosiLab
+  
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
@@ -91,14 +89,14 @@ menu:
       title: About 
       url: /about/
       weight: 1
-    - name: Blog
-      title: Blog
+    - name: News
+      title: News Posts
       url: /blog/
-      weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
       weight: 3
+    - name: Research
+      title: Research Projects
+      url: /project/
+      weight: 2
     - name: Talks
       title: Talks
       url: /talk/
@@ -107,10 +105,7 @@ menu:
       title: A collection
       url: /collection/
       weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+
 privacy:
   disqus:
     disable: no

@@ -3,9 +3,9 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Brosi Lab: Pollination & Community Ecology
+  Welcome to the Brosi Lab Website!
 ---
 
 <!-- this is a subheadline -->
-Welcome to our lab website! Please take a look around to find out more about us and our research. 
+We are a pollination and community ecology lab in the Department of Biology at the University of Washington. Please take a look around to find out more about us and our research. 
 

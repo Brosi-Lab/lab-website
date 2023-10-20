@@ -5,12 +5,12 @@ cascade:
   type: project
   show_author_byline: false
   show_comments: false
-  show_post_date: true
+  show_post_date: false
   sidebar:
     show_sidebar_adunit: true
     text_link_label: 
     text_link_url: /join-us/
-description: We are always looking for motivated, hard-working, interesting, and interested people to join the lab. Have a look at our current opportunities, diversity statement and lab philosophy, and more information for prospective post-docs, graduate students, and undergraduates, below.
+description: 
 layout: list-grid
 show_author_byline: true
 show_post_date: false

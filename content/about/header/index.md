@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-We are a pollination and community ecology lab in the Department of Biology at the University of Washington. Please take a look around to find out more about us and our research. 
+We are a Pollination and Community Ecology lab in the [Department of Biology](https://www.biology.washington.edu/) at the University of Washington. Please take a look around to find out more about us and our research. 
 

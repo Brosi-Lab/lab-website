@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Brosi Lab"
+author: "Berry Brosi"
 role: "University of Washington"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config

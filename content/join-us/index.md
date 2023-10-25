@@ -1,17 +1,16 @@
 ---
 title: "Join the Lab!"
-subtitle: "We are always looking for motivated, hard-working, interesting, and interested people to join the lab. Have a look at our current opportunities, diversity statement, lab philosophy, and more information for prospective post-docs, graduate students, and undergraduates, below"
+subtitle: "We are always looking for motivated, hard-working, interesting, and interested people to join the lab. Have a look at our diversity statement, lab philosophy, as well as more information for prospective post-docs, graduate students, and undergraduates, below:"
 excerpt: ""
-date: 
+date: ""
 author: ""
 draft: false
 tags:
-  - hugo-site
+  - join
 categories:
 
 layout: single
 links:
-
 ---
 ## Lab Philosophy
 We believe in doing great science, and in enjoying the process. Our lab values work-life balance, a sense of humor and fun, intellectual and scientific rigor, a lack of hierarchy, and open lines of communication. To us, development of human potential and looking out for each other are a key part of what we do. This is particularly important given the often strongly critical culture of science in our society, in which failure and rejection are common. Together, we have developed a lab culture that values working together to enjoy the process of science, even when things do not turn out as we had expected.
@@ -25,7 +24,7 @@ Our lab welcomes participants—students, postdocs, visiting scholars, and other
 ---
 
 ## Post-docs
-We often have grant-funded opportunities for post-docs, but we are very open to sponsoring prospective post-docs who come with external funding. We encourage post-docs to consider sources like the NSF post-doc program (varies from year to year in topic and focus), the Smith Fellows program, and for international applicants, programs from your country or region (such as the Marie Curie program for EU citizens) and others.
+We often have grant-funded opportunities for post-docs, but we are very open to sponsoring prospective post-docs who come with external funding. We encourage post-docs to consider sources like the NSF post-doc program (varies from year to year in topic and focus), the Smith Fellows program, and for international applicants, programs from your country or region (such as the Marie Curie program for EU citizens) and others. 
 
 ---
 
@@ -46,5 +45,8 @@ We generally ask a commitment of a minimum of six hours per week, and strongly p
 
 We are particularly enthusiastic about recruiting students who broaden diversity and representation in science, from a number of perspectives (including economically disadvantaged students). See our diversity statement above for more on this.
 
-In addition, students from any university can apply to work with us at the Rocky Mountain Biological Laboratory via their summer REU (Research Experiences for Undergraduates) program.  Interested prospective undergraduate students should contact Dr. Brosi via email at bbrosi@uw.edu detailing why they are interested in joining the lab. Please include a current transcript and a current resume.
+In addition, students from any university can apply to work with us at the [Rocky Mountain Biological Laboratory](https://www.rmbl.org/education-program-reu/) via their summer REU (Research Experiences for Undergraduates) program. Interested prospective undergraduate students should contact Dr. Brosi via email at [bbrosi@uw.edu](bbrosi@uw.edu) detailing why they are interested in joining the lab. Please include a current transcript and a current resume.
+
+---
+
 

@@ -101,10 +101,14 @@ menu:
       title: People
       url: /people/
       weight: 3
+    - name: Publications
+      title: Publications
+      url: /publications/
+      weight: 5
     - name: Join Us
       title: Join us
       url: /join-us/
-      weight: 5
+      weight: 6
 privacy:
   disqus:
     disable: no

@@ -12,7 +12,7 @@ cascade:
     text_link_url: /join-us/
 description: 
 layout: list-grid
-show_author_byline: true
+show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
@@ -22,8 +22,7 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: 
-title: Join the Lab!
+  title: Join Us
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

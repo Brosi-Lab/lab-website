@@ -2,7 +2,7 @@
 title: "Annie Colgan"
 subtitle: "PhD Student"
 excerpt: "PhD Student"
-date: 
+weight: 4
 author: "Annie Colgan"
 draft: false
 tags:

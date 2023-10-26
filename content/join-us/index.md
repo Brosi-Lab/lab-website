@@ -5,10 +5,6 @@ excerpt: ""
 date: ""
 author: ""
 draft: false
-tags:
-  - join
-categories:
-
 layout: single
 links:
 ---

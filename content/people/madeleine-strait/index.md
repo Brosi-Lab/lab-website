@@ -2,7 +2,7 @@
 title: "Madeleine Strait"
 subtitle: "PhD Student"
 excerpt: "PhD Student"
-date: 
+weight: 2
 author: "Madeleine Strait"
 draft: false
 tags:

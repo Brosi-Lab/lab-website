@@ -2,7 +2,7 @@
 title: "Berry Brosi"
 subtitle: "Principal Investigator"
 excerpt: "Principal Investigator"
-date:
+weight: 1
 author: "Berry Brosi"
 draft: false
 tags:

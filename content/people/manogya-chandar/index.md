@@ -1,6 +1,6 @@
 ---
 title: "Manogya Chandar"
-subtitle: "mchandar@uw.edu"
+subtitle: "Lab Manager (mchandar@uw.edu)"
 excerpt: "Lab Manager"
 weight: 5
 author: "Manogya Chandar"
@@ -13,9 +13,16 @@ layout: single
 links:
 
 ---
-I am interested in exploring the ecological drivers that influence pollinator visitation and foraging decisions, and what the genetic consequences of these choices are on plant reproduction and fitness. My senior thesis explored the relationship between temperature fluctuation and pollinator niche dynamics in the Rocky Mountains.
+<img src="featured.jpg" width="300" height="300">
 
-<img src="featured.jpg" width="400" height="400">
+
+### Research Interests
+
+I am generally interested in exploring the ecological drivers that influence pollinator visitation and foraging decisions. I'm especially interested in studying this from a molecular perspective, and understanding the genetic consequences of pollinator foraging on plant reproduction and fitness. My senior thesis explored the relationship between temperature fluctuation and pollinator niche dynamics in the Rocky Mountains.
+
+*Updated October 2023*
+
+---
 
 ### Education
 
@@ -24,7 +31,24 @@ B.S. in Environmental Science
 Northeastern University, Boston, MA
 
 
-### Experience/Publications/Teaching
+### Experience
+
+Brosi Lab, *Undergraduate researcher* (Jun 2021- Aug 2022)
+
+
+The Echinacea Project, *Research Technician* (Sept 2022)
+
+
+Boston Water and Sewer Commission, *GIS Assistant* (Jan – March 2020)
+
+
+Trussell Lab, *Undergraduate researcher* (Jun 2019- Dec 2019)
+
+
+
+
+
+### Publications/Talks/Teaching/Awards etc.
 
 
 

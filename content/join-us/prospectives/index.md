@@ -1,22 +1,12 @@
 ---
 title: "Join the Lab!"
-subtitle: "We are always looking for motivated, hard-working, interesting, and interested people to join the lab. Have a look at our diversity statement, lab philosophy, as well as more information for prospective post-docs, graduate students, and undergraduates, below:"
-excerpt: ""
+weight: 3
+subtitle: Interested in working with us? See below for more information for prospective students and post-docs
+excerpt: "More information for interested post-docs, graduate students, and undergraduate students"
 date: ""
 author: ""
 draft: false
-layout: single
-links:
----
-## Lab Philosophy
-We believe in doing great science, and in enjoying the process. Our lab values work-life balance, a sense of humor and fun, intellectual and scientific rigor, a lack of hierarchy, and open lines of communication. To us, development of human potential and looking out for each other are a key part of what we do. This is particularly important given the often strongly critical culture of science in our society, in which failure and rejection are common. Together, we have developed a lab culture that values working together to enjoy the process of science, even when things do not turn out as we had expected.
 
----
-## Diversity 
-Our lab welcomes participants—students, postdocs, visiting scholars, and others—regardless of race, religion, gender identification, sexual orientation, age, or disability status. A key under-represented group in science are participants from low-income backgrounds as well. We actively work to increase equity and inclusion in our lab and in science more generally, because we believe that diverse viewpoints and life experiences are critical for solving tough problems for science and for society. This is one of our key goals, and we weight it equally with doing good science.
-
----
-# Interested in Joining?
 ---
 
 ## Post-docs
@@ -44,5 +34,3 @@ We are particularly enthusiastic about recruiting students who broaden diversity
 In addition, students from any university can apply to work with us at the [Rocky Mountain Biological Laboratory](https://www.rmbl.org/education-program-reu/) via their summer REU (Research Experiences for Undergraduates) program. Interested prospective undergraduate students should contact Dr. Brosi via email at [bbrosi@uw.edu](bbrosi@uw.edu) detailing why they are interested in joining the lab. Please include a current transcript and a current resume.
 
 ---
-
-

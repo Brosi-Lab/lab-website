@@ -1,28 +1,32 @@
 ---
-type: project
+title: "Join the Brosi Lab!"
+subtitle: 
+description: |
 author: 
-cascade:
-  type: project
-  show_author_byline: false
-  show_comments: false
-  show_post_date: false
-  sidebar:
-    show_sidebar_adunit: true
-    text_link_label: 
-    text_link_url: /join-us/
-description: 
-layout: list-grid
+show_post_thumbnail: true
+thumbnail_left: false # for list-sidebar only
 show_author_byline: false
 show_post_date: false
-show_post_thumbnail: true
-sidebar:
-  author: The R Markdown Team @RStudio
-  description: "Projects can be anything!\nCheck out the _index.md file in the /project
-    folder \nto edit this content.\n"
-  show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
-  title: Join Us
----
+# for listing page layout
+layout: list-sidebar # list, list-sidebar
+type: collection
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+# set up common front matter for all individual pages in series
+cascade:
+  type: collection
+  layout: single-series 
+  sidebar: 
+    title: "Join the Brosi Lab!"
+    author: 
+    description: |
+      We are always looking for motivated, hard-working, interesting, and  interested people to join the lab. Have a look at our diversity statement, lab philosophy, as well as more information for prospective post-docs, graduate students, and undergraduates, on this page.
+    show_author_byline: false
+    show_post_date: false
+    text_link_label: ""
+    text_link_url: ""
+    show_sidebar_adunit: false # show ad container, first page only
+    text_series_label: "Outline" 
+    text_contents_label: "On this page" 
+    type: collection
+
+---

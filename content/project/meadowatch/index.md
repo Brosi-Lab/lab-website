@@ -8,7 +8,8 @@ draft: false
 tags:
 
 categories:
-  - networks
+  - projects
+  - meadowatch
 layout: single
 links:
 
@@ -18,5 +19,11 @@ The [MeadoWatch](http://www.meadowatch.org/) program uses a community-science ap
 
 
 ![reflection lakes](featured.jpeg)
----
+ ## Key Papers
+ 
+Manzanedo RD, John A, †Sethi M, Theobald E, Brosi BJ, Jenkins J, Kloss-Schmidt A, Lia E, Schiffer A, Sevigny J, Wilson A, Yogev Y, Hille Ris Lambers J. 2022. [MeadoWatch: a long-term community-science database of wildflower phenology in Mount Rainier National Park](https://www.nature.com/articles/s41597-022-01206-8). Scientific Data 9:151.
 
+
+ 
+ 
+ 

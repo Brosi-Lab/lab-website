@@ -2,7 +2,7 @@
 title: "Past Projects"
 subtitle: ""
 excerpt: ""
-date: 
+date: ""
 author: ""
 draft: false
 tags:
@@ -34,6 +34,11 @@ Our work on host-parasite interactions fits within our more general interest in 
 ## Environmental Change Effects on Bee Community Structure
 Understanding how environmental change affects ecological communities is key given the ongoing biodiversity crisis. Much of Berry’s doctoral and post-doctoral work focused on these themes, focused on how tropical deforestation and land-use affect bee communities. We finalized our work on this theme related to land-use changes surrounding biofuel feedstock cultivation in the southeastern US.
 
+<img src="plot.jpeg" width="400" height="300">
 
+---
+## Biodiversity — Ecological Functioning Relationships
+A key interest in our group is the functional role of biodiversity: what happens to ecological functioning when biodiversity is lost? We are particularly interested in the role of phenotypic plasticity—both behavioral and morphological—in biodiversity-ecological functioning relationships (see our “behavior” research area for more). While we consider traditional “ecosystem” outcomes such as biomass production, we are also interested in “ecological” outcomes such as plant reproduction.
 
+<img src="meadow.JPG" width="400" height="300">
 

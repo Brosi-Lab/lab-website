@@ -34,31 +34,33 @@ Inouye BD, Brosi BJ, Le Sage EH, Lerdau MT. 2022. [Trade-offs among resilience, 
 ---
 ## 2021:
 
-Endres K, Morozumi C, Loy X, Briggs H, CaraDonna P, Iller A, Picklum D, Barr WA, Brosi BJ. 2021.Plant-Pollinator Interaction Niche Broadens in Response to Severe Drought Perturbations. Oecologia 197: 577–588.
+Endres K, Morozumi C, Loy X, Briggs H, CaraDonna P, Iller A, Picklum D, Barr WA, Brosi BJ. 2021.[Plant-Pollinator Interaction Niche Broadens in Response to Severe Drought Perturbations](https://doi.org/10.1007/s00442-021-05036-0). Oecologia 197: 577–588.
 
-Bell KL, MacPherson JM, Cutler A, Dobbs E, Read TD, Burgess KD, Brosi BJ. 2021. Comparing whole genome shotgun sequencing and DNA metabarcoding approaches for species identification and quantification of pollen species mixtures. Ecology and Evolution 11:16082–16098.
+Bell KL, MacPherson JM, Cutler A, Dobbs E, Read TD, Burgess KD, Brosi BJ. 2021. [Comparing whole genome shotgun sequencing and DNA metabarcoding approaches for species identification and quantification of pollen species mixtures](https://doi.org/10.1002/ece3.8281). Ecology and Evolution 11:16082–16098.
 
-Helderop E, Bienenstock EA, Grubesic AH, Miller JA, Tong D, Brosi BJ, Jha S. 2021. Network-Based Geoforensics: Connecting Pollen and Plants to Place. Ecological Informatics 66: 101443.
+Helderop E, Bienenstock EA, Grubesic AH, Miller JA, Tong D, Brosi BJ, Jha S. 2021. [Network-Based Geoforensics: Connecting Pollen and Plants to Place](10.1016/j.ecoinf.2021.101443). Ecological Informatics 66: 101443.
 
-Cervantes-Loreto A, Ayers C, Dobbs E, Brosi BJ, Stouffer D. 2021. The context dependency of pollinator interference: how environmental conditions and co-foraging species impact floral visitation. Ecology Letters 24(7): 1443-1454.
+Cervantes-Loreto A, Ayers C, Dobbs E, Brosi BJ, Stouffer D. 2021. [The context dependency of pollinator interference: how environmental conditions and co-foraging species impact floral visitation](https://doi.org/10.1111/ele.13765). Ecology Letters 24(7): 1443-1454.
 
-Tong D, Grubesic AH, Mu W, Miller JA, Helderop E, Jha S, Brosi BJ, Bienenstock EA. 2021. Identifying the Spatial Footprint of Pollen Distributions Using the Geoforensic Interdiction (GOFIND) Model. Computers, Environment and Urban Systems 87: 101615.
+Tong D, Grubesic AH, Mu W, Miller JA, Helderop E, Jha S, Brosi BJ, Bienenstock EA. 2021. [Identifying the Spatial Footprint of Pollen Distributions Using the Geoforensic Interdiction (GOFIND) Model](https://doi.org/10.1016/j.compenvurbsys.2021.101615). Computers, Environment and Urban Systems 87: 101615.
 
-Bartlett LJ, Boots M, Brosi BJ, de Roode JC, Delaplane KS, Hernandez CA, Wilfert L. 2021. Persistent effects of management history on honeybee colony virus abundances. Journal of Invertebrate Pathology 179: 107520.
+Bartlett LJ, Boots M, Brosi BJ, de Roode JC, Delaplane KS, Hernandez CA, Wilfert L. 2021. [Persistent effects of management history on honeybee colony virus abundances](https://doi.org/10.1016/j.jip.2020.107520). Journal of Invertebrate Pathology 179: 107520.
  
-Jones G, Smith L, Gottlieb IGW, Ober H, Brosi BJ, Fletcher RJ. 2020. Herpetofaunal responses to intensification of woody bioenergy production in a global biodiversity hotspot. Forest Ecology & Management 477: 118493.
+Jones G, Smith L, Gottlieb IGW, Ober H, Brosi BJ, Fletcher RJ. 2020. [Herpetofaunal responses to intensification of woody bioenergy production in a global biodiversity hotspot](https://doi.org/10.1016/j.foreco.2020.118493). Forest Ecology & Management 477: 118493.
+
+
 
 --- 
 
 ## 2020:
 
-Ober H, Jones 2020 G, Gottlieb IGW, Johnson S, Smith L, Brosi BJ, Fletcher RJ. 2020. Bat community response to intensification of biomass production for bioenergy across the southeastern United States.Ecological Applications 30(7): e02155.
+Ober H, Jones 2020 G, Gottlieb IGW, Johnson S, Smith L, Brosi BJ, Fletcher RJ. 2020. [Bat community response to intensification of biomass production for bioenergy across the southeastern United States](https://doi.org/10.1002/eap.2155).Ecological Applications 30(7): e02155.
 
-Morrison B, Dirzo R, Brosi BJ. 2020. Agricultural intensification drives changes in hybrid network robustness by modifying network structure. Ecology Letters 23: 359-369.
+Morrison B, Dirzo R, Brosi BJ. 2020. [Agricultural intensification drives changes in hybrid network robustness by modifying network structure](https://doi.org/10.1111/ele.13440). Ecology Letters 23: 359-369.
 
-Loy X, Gruenewald DL, Gottlieb IGW, Dobbs EK, Miljanic AS, Botsch JS, Lawley B, Ober H, Smith L,Fletcher, RJ, Brosi BJ. 2020. The impact of bioenergy pine plantation management practices on bee communities. Journal of Applied Ecology 57:952–962.
+Loy X, Gruenewald DL, Gottlieb IGW, Dobbs EK, Miljanic AS, Botsch JS, Lawley B, Ober H, Smith L,Fletcher, RJ, Brosi BJ. 2020. [The impact of bioenergy pine plantation management practices on bee communities](https://doi.org/10.1111/1365-2664.13586). Journal of Applied Ecology 57:952–962.
 
-Dynes TL, Berry J, Delaplane K, Brosi BJ, de Roode JC. 2020. Assessing virulence of Varroa destructor mites from different honey bee management regimes. Apidologie 51: 276-289.
+Dynes TL, Berry J, Delaplane K, Brosi BJ, de Roode JC. 2020. [Assessing virulence of Varroa destructor mites from different honey bee management regimes](https://doi.org/10.1007/s13592-019-00716-6). Apidologie 51: 276-289.
 
 ---
 

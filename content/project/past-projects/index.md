@@ -10,8 +10,10 @@ categories:
   - projects
 layout: single
 links:
-
+ 
 ---
+![headnet](net.jpeg)
+
 ## Animal Behavior in a Functional Community-Ecology Context
 
 Behavioral plasticity can be a key driver of network dynamics (adaptive foraging, re-wiring) and ecological functioning (e.g. pollinator behavior as a driver of pollination functioning). We are interested in a range of fundamental topics in behavior that affect these relationships, including intraspecific variation in behavior (a key research interest of Donna) and social information. We  developed a completely computer-controlled foraging enclosure, with artificial flowers whose rewards are triggered by tiny radio-frequency ID (RFID) tags that allows for nearly complete control of foraging rewards, allowing for powerful experimental approaches in behavior.

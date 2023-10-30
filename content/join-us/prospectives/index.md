@@ -3,7 +3,7 @@ title: "Join the Lab!"
 weight: 3
 subtitle: Interested in working with us? See below for more information for prospective students and post-docs
 excerpt: "More information for interested post-docs, graduate students, and undergraduate students"
-date: ""
+date: "" 
 author: ""
 draft: false
 

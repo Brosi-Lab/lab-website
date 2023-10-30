@@ -47,7 +47,7 @@ Dr. Karen Bell, 2014-2016
 Dr. Ismael Hinojosa, 2012-2014
 
 ---
-## Other Lab Members
+## Lab Staff
 
 Annie Schiffer (Lab Manager)
 
@@ -55,3 +55,8 @@ Selena Perrin (Lab Manager)
 
 Anya Cutler (Staff Scientist)
 
+--- 
+
+## Emory Undergraduate Honors Students
+
+Kelly Endres, Andriana Miljanic, Hsini Chu, Jamieson Botsch, Laila Atalla, Brice Lawley, Lydia McCormick, Holly Bok, Lucy Anderson, Evan Crane, Allison Tammany

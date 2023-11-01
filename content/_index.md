@@ -1,7 +1,7 @@
 ---
 title: "Brosi Lab"
-subtitle: "Community Ecology at the University of Washington"
-description: "We use plant-pollinator interactions as a model system to study how the structure of biological communities—including both biodiversity and ecological network structure—affects ecological functioning, and how it is affected by environmental change"
+subtitle: "Ecological Networks at the University of Washington"
+description: "We study how the structure of biological communities---including both biodiversity and ecological network structure---affects ecological functioning, and how it is affected by environmental change. We primarily, but not exclusively, use plant-pollinator interactions as a model system."
 
 images:
   - img/home.jpg

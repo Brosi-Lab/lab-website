@@ -53,10 +53,16 @@ Annie Schiffer (Lab Manager)
 
 Selena Perrin (Lab Manager)
 
+Jamie Botsch (Lab Manager)
+
+Travis Dynes (Lab Manager)
+
+Emily Dobbs (Lab Manager)
+
 Anya Cutler (Staff Scientist)
 
 --- 
 
 ## Emory Undergraduate Honors Students
 
-Kelly Endres, Andriana Miljanic, Hsini Chu, Jamieson Botsch, Laila Atalla, Brice Lawley, Lydia McCormick, Holly Bok, Lucy Anderson, Evan Crane, Allison Tammany
+Annie Schiffer, Kelly Endres, Andriana Miljanic, Hsini Chu, Jamieson Botsch, Laila Atalla, Brice Lawley, Lydia McCormick, Holly Bok, Lucy Anderson, Evan Crane, Allison Tammany

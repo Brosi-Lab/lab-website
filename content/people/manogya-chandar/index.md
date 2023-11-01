@@ -15,7 +15,7 @@ links:
 ---
 <img src="featured.jpg" width="300" height="300">
 
-I am generally interested in exploring the ecological drivers that influence pollinator visitation and foraging decisions. I'm especially interested in studying this from a molecular perspective, and understanding the genetic consequences of pollinator foraging on plant reproduction and fitness. My senior thesis explored the relationship between temperature fluctuation and pollinator niche dynamics in the Rocky Mountains.
+I am generally interested in exploring the ecological drivers that influence pollinator visitation and foraging decisions. I'm especially interested in studying this from a molecular perspective, and understanding the genetic consequences of pollinator foraging on plant reproduction and fitness. My senior thesis explored the relationship between temperature fluctuation and pollinator niche dynamics in the Rocky Mountains. I'm also interested in community-oriented science, and am  coordinator of the MeadoWatch program!
 
 *Updated October 2023*
 
@@ -42,10 +42,6 @@ Boston Water and Sewer Commission, *GIS Assistant* (Jan – March 2020)
 Trussell Lab, *Undergraduate Researcher* (Jun 2019- Dec 2019)
 
 
-
-
-### Publications/Talks/Teaching/Awards etc.
-Add in my publication
 
 ---
 

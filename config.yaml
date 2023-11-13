@@ -34,7 +34,7 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: Brosi Lab Website
-  favicon: /img/brosilab.ico
+  favicon: /img/brosilab.ico 
   headingFontFamily: sans-serif
   logo: /img/logo.png
   mainSections:

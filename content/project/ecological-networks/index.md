@@ -20,7 +20,7 @@ We have explored this through manipulative work on the effects of accelerated sn
 
 Our current work on networks is supported by an NSF award alongside [Fernanda Valdovinos](https://www.fsvaldovinos.com/) (UC Davis) and [Mark Novak](https://novaklabosu.github.io/) (Oregon State), utilizing data-theory integration to understand the timescale-dependent effects of transient dynamics in plant-pollinator networks. As part of this work, we will be hosting a [data-theory integration workshop](https://models4data2theory.github.io/) in 2024. 
 
-![Gothic Mountain](featured.JPG) 
+![Meadow](meadow2.jpg) 
 
 
 ## Key Papers 

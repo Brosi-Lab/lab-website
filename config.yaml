@@ -59,11 +59,11 @@ params:
   socialInHeader: no
   textFontFamily: sans-serif
   theme: sky
-  twitter: apreshill
+  twitter: brosilab
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
+    repo_name: Brosi-Lab/lab-website
     theme: boxy-light
     use_utterances: yes
 taxonomies:

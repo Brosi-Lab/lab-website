@@ -13,21 +13,6 @@ layout: single
 links:
 
 ---
----
-title: "Annie Colgan"
-subtitle: "PhD Student"
-excerpt: "PhD Student"
-weight: 4
-author: "Annie Colgan"
-draft: false
-tags:
-  - people
-categories:
-  - people
-layout: single
-links:
-
----
 <img src="featured.jpeg" width="679" height="647">
 
 Broadly, I am interested in how to keep ecosystems healthy in the face of change. In my research, I study how and when short-term plant and insect responses to environmental variability (including physiological, phenotypic, and behavioral responses) affect the long-term dynamics of plant-pollinator communities. In practice this involves counting flowers, catching pollinators, and developing mathematical and statistical models. In addition, I conduct education research to identify and counteract barriers to the success of underrepresented students in biology. Before starting at UW, I worked with the USGS at the West Glacier field station in Montana. I have also done research (mostly plant ecology) in the Colorado Rockies, the White Mountains in New Hampshire, and in the Arctic. In addition to science, I like tea, community, and people-powered transportation (bikes, skis, hiking boots etc.).

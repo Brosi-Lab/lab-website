@@ -6,7 +6,8 @@ title: Publications
 layout: standard
 show_title_as_headline: true
 ---
-Key Papers are shown in <font color="teal"> BLUE </font>
+
+<!-- Key Papers are shown in <font color="teal"> BLUE </font> -->
 
 ## 2023:
 Arrowsmith KC, Reynolds VR, Briggs HM, Brosi BJ. 2023. [Community context mediates effects of pollinator loss on seed production](https://doi.org/10.1002/ecs2.4569). Ecosphere 14: e4569.
@@ -15,7 +16,9 @@ Avila L, McCullough C, Schiffer A, Moreno J, Ganjur N, Offenlach Z, DuPont T, No
 
 Bell KA, Turo KJ, Lowe A, Nota K, Keller A, Encinas-Viso F, Parducci L, Richardson R, Legget RM, Brosi BJ, Burgess KS, Suyama Y, de Vere N. 2023. [Pollen DNA metabarcoding and related methods in global change ecology: prospects, challenges, and progress](https://doi.org/10.1111/mec.16689). Molecular Ecology 32: 6345–6362.
 
-<font color="teal">Schiffer A, Loy X, Morozumi C, Brosi BJ. 2023. [Differences in individual flowering time change pollen limitation and seed set in three montane wildflowers](https://doi.org/10.1002/ajb2.16123). American Journal of Botany 110:e16123.</font>
+Schiffer A, Loy X, Morozumi C, Brosi BJ. 2023. [Differences in individual flowering time change pollen limitation and seed set in three montane wildflowers](https://doi.org/10.1002/ajb2.16123). American Journal of Botany 110:e16123.
+
+<!--<font color="teal">Schiffer A, Loy X, Morozumi C, Brosi BJ. 2023. [Differences in individual flowering time change pollen limitation and seed set in three montane wildflowers](https://doi.org/10.1002/ajb2.16123). American Journal of Botany 110:e16123.</font> -->
 
 Pardee GL, Ballare KM, Neff JL, Do LQ, Ojeda DJ, Bienenstock EJ, Brosi BJ, Grubesic AH, Miller JA,Tong D, Jha S. 2023. [Local and landscape factors influence plant-pollinator networks and bee foraging behavior across an urban corridor](https://doi.org/10.3390/land12020362). Land 12(2): 362.
 

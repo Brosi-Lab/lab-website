@@ -9,6 +9,11 @@ show_title_as_headline: true
 Key Papers are shown in <font color="teal"> BLUE </font>
 
 ## 2023:
+Arrowsmith KC, Reynolds VR, Briggs HM, Brosi BJ. 2023. [Community context mediates effects of pollinator loss on seed production](https://doi.org/10.1002/ecs2.4569). Ecosphere 14: e4569.
+
+Avila L, McCullough C, Schiffer A, Moreno J, Ganjur N, Offenlach Z, DuPont T, Nottingham L, Gerardo NM, Brosi BJ. 2023. [Effects of a field-sprayed antibiotic on bee foraging behavior and pollination in pear orchards](https://doi.org/10.1016/j.agee.2023.108757). Agriculture, Ecosystems, and Environment 359: 108757.
+
+Bell KA, Turo KJ, Lowe A, Nota K, Keller A, Encinas-Viso F, Parducci L, Richardson R, Legget RM, Brosi BJ, Burgess KS, Suyama Y, de Vere N. 2023. [Pollen DNA metabarcoding and related methods in global change ecology: prospects, challenges, and progress](https://doi.org/10.1111/mec.16689). Molecular Ecology 32: 6345–6362.
 
 <font color="teal">Schiffer A, Loy X, Morozumi C, Brosi BJ. 2023. [Differences in individual flowering time change pollen limitation and seed set in three montane wildflowers](https://doi.org/10.1002/ajb2.16123). American Journal of Botany 110:e16123.</font>
 

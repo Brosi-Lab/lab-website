@@ -27,7 +27,7 @@ While each doctoral student is expected to develop her or his own research proje
 ## Undergraduate Students
 We welcome undergraduate students with an interest in scientific research and the environment, a strong work ethic, and excellent academic track record to join the Brosi lab. We are particularly interested in students who have an academic interest in ecological research, but many of the students who have worked in our lab have gone on to do other things.
 
-We generally ask a commitment of a minimum of six hours per week, and strongly prefer students who will also make a long-term commitment to a longitudinal experience in our lab—that is, students who are interested to stay for several semesters and preferably for the remainder of their college career. Freshman and sophomore applicants are preferred, but we are open to students at any stage of their college career.
+We generally ask a commitment of a minimum of six hours per week, and strongly prefer students who will also make a long-term commitment to a longitudinal experience in our lab—that is, students who are interested to stay for several semesters and preferably for the remainder of their college career. Freshman and sophomore applicants are preferred, but we are open to students at any stage of their college career. We are very open to hiring eligible students through work-study.
 
 We are particularly enthusiastic about recruiting students who broaden diversity and representation in science, from a number of perspectives (including economically disadvantaged students). See our diversity statement above for more on this.
 

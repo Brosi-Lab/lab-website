@@ -23,14 +23,16 @@ I am generally interested in exploring the ecological drivers that influence pol
 
 ### Education
 
-B.S. in Environmental Science 
+Northeastern University (2018 - 2022)
 
-Northeastern University, Boston, MA
+Boston, MA
+
+B.S. in Environmental Science 
 
 
 ### Experience
 
-Brosi Lab, *Undergraduate Researcher* (Jun 2021- Aug 2022)
+Brosi Lab, *Undergraduate Researcher* (Jun 2021 - Aug 2022)
 
 
 The Echinacea Project, *Research Technician* (Sept 2022)
@@ -39,7 +41,7 @@ The Echinacea Project, *Research Technician* (Sept 2022)
 Boston Water and Sewer Commission, *GIS Assistant* (Jan – March 2020)
 
 
-Trussell Lab, *Undergraduate Researcher* (Jun 2019- Dec 2019)
+Trussell Lab, *Undergraduate Researcher* (Jun 2019 - Dec 2019)
 
 
 

@@ -10,7 +10,10 @@ draft: false
 ---
 
 ## Post-docs
-We often have grant-funded opportunities for post-docs, but we are very open to sponsoring prospective post-docs who come with external funding. We encourage post-docs to consider sources like the NSF post-doc program (varies from year to year in topic and focus), the Smith Fellows program, and for international applicants, programs from your country or region (such as the Marie Curie program for EU citizens) and others. 
+
+We often have grant-funded opportunities for post-docs, and in addition we are very open to sponsoring prospective post-docs who come with external funding. Consider funding sources like the [Washington Research Foundation Post-Doc program](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/), the [NSF PRFB post-doc program](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb), the [Smith Fellows program](https://conbio.org/mini-sites/smith-fellows), and for international applicants, programs from your country or region (such as the [Marie Curie program](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) for EU citizens) and others such as the Human Frontiers Science Program. 
+
+We encourage prospective post-docs to reach out to Berry to discuss opportunities.
 
 ---
 

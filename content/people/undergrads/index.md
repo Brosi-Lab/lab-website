@@ -13,6 +13,9 @@ layout: single
 links:
 
 ---
+
+<img src="featured.jpg" width="350" height="300">
+
 ## Undergraduate Students
 
 Fanya Yuan

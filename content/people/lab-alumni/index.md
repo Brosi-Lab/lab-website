@@ -2,7 +2,7 @@
 title: "Lab Alumni"
 subtitle: ""
 excerpt: Past Brosi Lab Members
-weight: 7
+weight: 9
 author:
 draft: false
 tags:

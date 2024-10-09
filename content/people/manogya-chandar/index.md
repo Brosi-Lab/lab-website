@@ -2,7 +2,7 @@
 title: "Manogya Chandar"
 subtitle: "Lab Manager"
 excerpt: "Lab Manager"
-weight: 5
+weight: 6
 author: "Manogya Chandar"
 draft: false
 tags:

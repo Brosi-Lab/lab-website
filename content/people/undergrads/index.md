@@ -2,7 +2,7 @@
 title: "Undergraduate Students & Volunteers"
 subtitle: ""
 excerpt: Current Undergrads & Volunteers
-weight: 6
+weight: 8
 author:
 draft: false
 tags:
@@ -18,6 +18,10 @@ links:
 Fanya Yuan
  
 Stella Cristopherson
+
+Leo Couchon
+
+Iris Miller-Sherman
 
 ---
 

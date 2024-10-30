@@ -20,7 +20,7 @@ links:
 
 Fanya Yuan
  
-Stella Cristopherson
+Stella Christopherson
 
 Leo Couchon
 
@@ -29,7 +29,5 @@ Iris Miller-Sherman
 ---
 
 ## Volunteers
-
-Nina Haruko Michael
 
 Susan Hooker

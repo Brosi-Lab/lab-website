@@ -49,7 +49,7 @@ Sarro E, P Sun, K Mauck, *D Rodriguez-Arellano, N Yamanaka, SH Woodard (2021) [A
 
 ### Contact
 
-esarr002@ucr.edu
+gustiloe@uw.edu
 
 [Website](https://erica-sarro.github.io/)
 

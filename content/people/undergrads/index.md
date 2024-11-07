@@ -31,3 +31,5 @@ Iris Miller-Sherman
 ## Volunteers
 
 Susan Hooker
+
+Nina Haruko-Michael

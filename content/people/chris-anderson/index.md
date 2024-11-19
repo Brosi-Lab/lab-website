@@ -34,6 +34,10 @@ Top Scholar Fellowship (2021)
 
 Computational Science Graduate Fellowship (2022-2026)
 
+### Publications
+Anderson CR, Curtsdotter ARK, Staniczenko PA, Valdovinos FS, Brosi BJ. 2024.[The Interplay of Binary and Quantitative Structure on the Stability of Mutualistic Networks](https://doi.org/10.1093/icb/icae074), Integrative and Comparative Biology 64(3): 827–840.
+
+
 ---
 
 ### Contact

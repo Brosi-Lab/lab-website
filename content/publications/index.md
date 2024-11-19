@@ -7,18 +7,23 @@ layout: standard
 show_title_as_headline: true
 ---
 
-<!-- Key Papers are shown in <font color="teal"> BLUE </font> -->
+## 2024:
+Anderson CR, Curtsdotter ARK, Staniczenko PA, Valdovinos FS, Brosi BJ. 2024.[The Interplay of Binary and Quantitative Structure on the Stability of Mutualistic Networks](https://doi.org/10.1093/icb/icae074), Integrative and Comparative Biology 64(3): 827–840.
+
+Bartlett LJ, Boots M, Brosi BJ, Delaplane KS, Dynes TL, de Roode JC. 2024. [Faster-growing parasites threaten host populations via patch-level population dynamics and higher virulence; a case study in Varroa mites (Mesostigmata: Varroidae) and honey bees (Hymenoptera: Apidae)](https://doi.org/10.1093/jisesa/ieae049). Journal of Insect Science. 24(3):17. 
+
+Avila L, McCullough C, Schiffer A, Moreno J, Ganjur N, Ofenloch Z, DuPont T, Nottingham L, Gerardo NM, Brosi BJ. 2024. [Effects of a field-sprayed antibiotic on bee foraging behavior and pollination in pear orchards](https://doi.org/10.1016/j.agee.2023.108757). Agriculture, Ecosystems & Environment 359: 108757.
+
+
 
 ## 2023:
+Bell KL, Turo KJ, Lowe A, Nota K, Keller A, Encinas‐Viso F, Parducci L, Richardson RT, Leggett RM, Brosi BJ, Burgess KS, Suyama Y, de Vere N. 2023. [Plants, pollinators and their interactions under global ecological change: The role of pollen DNA metabarcoding](https://doi.org/10.1111/mec.16689).Molecular Ecology 32(23): 6345–6362
+
 Arrowsmith KC, Reynolds VR, Briggs HM, Brosi BJ. 2023. [Community context mediates effects of pollinator loss on seed production](https://doi.org/10.1002/ecs2.4569). Ecosphere 14: e4569.
 
 Avila L, McCullough C, Schiffer A, Moreno J, Ganjur N, Offenlach Z, DuPont T, Nottingham L, Gerardo NM, Brosi BJ. 2023. [Effects of a field-sprayed antibiotic on bee foraging behavior and pollination in pear orchards](https://doi.org/10.1016/j.agee.2023.108757). Agriculture, Ecosystems, and Environment 359: 108757.
 
-Bell KA, Turo KJ, Lowe A, Nota K, Keller A, Encinas-Viso F, Parducci L, Richardson R, Legget RM, Brosi BJ, Burgess KS, Suyama Y, de Vere N. 2023. [Pollen DNA metabarcoding and related methods in global change ecology: prospects, challenges, and progress](https://doi.org/10.1111/mec.16689). Molecular Ecology 32: 6345–6362.
-
 Schiffer A, Loy X, Morozumi C, Brosi BJ. 2023. [Differences in individual flowering time change pollen limitation and seed set in three montane wildflowers](https://doi.org/10.1002/ajb2.16123). American Journal of Botany 110:e16123.
-
-<!--<font color="teal">Schiffer A, Loy X, Morozumi C, Brosi BJ. 2023. [Differences in individual flowering time change pollen limitation and seed set in three montane wildflowers](https://doi.org/10.1002/ajb2.16123). American Journal of Botany 110:e16123.</font> -->
 
 Pardee GL, Ballare KM, Neff JL, Do LQ, Ojeda DJ, Bienenstock EJ, Brosi BJ, Grubesic AH, Miller JA,Tong D, Jha S. 2023. [Local and landscape factors influence plant-pollinator networks and bee foraging behavior across an urban corridor](https://doi.org/10.3390/land12020362). Land 12(2): 362.
 

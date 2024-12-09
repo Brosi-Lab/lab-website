@@ -18,13 +18,17 @@ links:
 
 ## Undergraduate Students
 
-Fanya Yuan
- 
 Stella Christopherson
 
 Leo Couchon
 
 Iris Miller-Sherman
+
+Dylan Strauss
+
+Jovanna Talarico
+
+Fanya Yuan
 
 ---
 
@@ -32,4 +36,4 @@ Iris Miller-Sherman
 
 Susan Hooker
 
-Nina Haruko-Michael
+Nina Haruko Michael

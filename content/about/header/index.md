@@ -15,3 +15,4 @@ Participate in a 3-day data-theory integration workshop at the Rocky Mountain Bi
 With a focus on the structure and dynamics of plant-pollinator interactions, the goals for this workshop are to introduce participants to the theory underlying metrics of network structure, the statistical methods for quantifying interaction processes from data, and the mathematical tools that enable inferences regarding community dynamics.
 
 For more information and to apply visit https://models4data2theory.github.io/
+Applications are due Feb 1st, 2025

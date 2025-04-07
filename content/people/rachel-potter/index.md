@@ -22,19 +22,24 @@ In my education research, I investigate the complex relationship between classro
 ---
 
 ### Education
-University of California Los Angeles (2020 - 2022)
+**University of California Los Angeles** (2020 - 2022)
 
 Los Angeles, CA
 
-M.S. in Ecology & Evolutionary Biology (Thermal Plasticity)
+M.S. in Ecology & Evolutionary Biology; CIRTL Scholar certification
 
-CIRTL Scholar certification for implementing collaborative learning interventions in quantitative biology courses
 
-University of Chicago (2015 - 2019)
+**University of Chicago** (2015 - 2019)
 
 Chicago, IL
 
 B.S. in Biology, Minor in Statistics
+
+---
+
+### Publications
+
+Sumitra Tatapudy, **Rachel Potter**, Linnea Bostrom, Anne Colgan, Casey J. Self, Julia Smith, Shangmou Xu, and Elli J. Theobald. 2024. [Visualizing Inequities: A Step Toward Equitable Student Outcomes](https://doi.org/10.1187/cbe.24-02-0086). CBE—Life Sciences Education (23)4.
 
 ---
 

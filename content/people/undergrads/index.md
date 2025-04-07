@@ -18,17 +18,17 @@ links:
 
 ## Undergraduate Students
 
+Dylan Strauss
+
 Stella Christopherson
 
-Leo Couchon
+Fanya Yuan
 
 Iris Miller-Sherman
 
-Dylan Strauss
+Ian Choy
 
-Jovanna Talarico
-
-Fanya Yuan
+Emma Lo
 
 ---
 

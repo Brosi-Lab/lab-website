@@ -31,6 +31,9 @@ B.A. in Biology
 
 
 ### Publications
+Sumitra Tatapudy, Rachel Potter, Linnea Bostrom, **Anne Colgan**, Casey J. Self, Julia Smith, Shangmou Xu, and Elli J. Theobald. 2024. [Visualizing Inequities: A Step Toward Equitable Student Outcomes](https://doi.org/10.1187/cbe.24-02-0086). CBE—Life Sciences Education (23)4.
+
+**Anne Colgan**, Richard G. Hatfield, Amy Dolan, Wendy Velman, Rebecca Newton, and Tabitha A. Graves. 2024. [Quantifying effectiveness and best practices for bumblebee identification from photographs](https://doi.org/10.1038/s41598-023-41548-w). Sci Rep (14)830.
 
 Georgia L.D. Murray, **Anne M. Colgan**, Sarah J. Nelson, Eric P. Kelsey, and Kenneth D. Kimball. 2021. [Climate Trends on the Highest Peak of the Northeast: Mount Washington, NH.](https://doi.org/10.1656/045.028.s1105) Northeastern Naturalist 28(sp11):64-82.
 

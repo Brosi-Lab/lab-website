@@ -49,6 +49,8 @@ Dr. Ismael Hinojosa, 2012-2014
 ---
 ## Lab Staff
 
+Manogya Chandar (Lab Manager)
+
 Annie Schiffer (Lab Manager)
 
 Selena Perrin (Lab Manager)

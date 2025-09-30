@@ -18,7 +18,7 @@ links:
 
 ## Undergraduate Students
 
-Dylan Strauss
+Jessica Zheng
 
 Stella Christopherson
 
@@ -26,9 +26,17 @@ Fanya Yuan
 
 Iris Miller-Sherman
 
+Cameron Rutherford
+
+Chloe Manno
+
+Willow Goetting
+
+Mihir Motukuri
+
 Ian Choy
 
-Emma Lo
+Mahlia Dawn Schomaker 
 
 ---
 

@@ -15,8 +15,7 @@ links:
 ---
 <img src="featured.jpg" width="300" height="300">
 
-As a disturbance ecologist, my research explores the effects of climate-driven disturbance on pollinating bees, beetles, and flies. I use both field based and molecular methods to quantify shifts in pollinator community composition, fitness, and plant-pollinator networks over spatial and temporal scales.
-
+My research explores the effects of climate-driven disturbance on native insect pollinator communities. I use both field based and molecular methods to quantify shifts in pollinator community composition, fitness, and plant-pollinator networks over spatial and temporal scales.
 
 *Updated August 2025*
 

@@ -2,7 +2,7 @@
 title: "Lab Alumni"
 subtitle: ""
 excerpt: Past Brosi Lab Members
-weight: 6
+weight: 10
 author:
 draft: false
 tags:
@@ -48,6 +48,8 @@ Dr. Ismael Hinojosa, 2012-2014
 
 ---
 ## Lab Staff
+
+Manogya Chandar (Lab Manager)
 
 Annie Schiffer (Lab Manager)
 

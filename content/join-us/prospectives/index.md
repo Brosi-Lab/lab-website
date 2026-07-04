@@ -23,7 +23,7 @@ Graduate students in the lab are admitted through UW’s Biology program. The Bi
 2. Feel they would work well in our environment, given our lab philosophy (see above)
 3. Interested to develop their quantitative skills in terms of ecological statistics and/or modeling (any mathematical background is welcome as long as you are motivated to develop these skills)
 We are particularly enthusiastic about recruiting students who broaden diversity and representation in science, from a number of perspectives. See our diversity statement above for more on this.
-While each doctoral student is expected to develop her or his own research project, it should be somewhat related to the projects listed in our research page. Interested prospective graduate students should contact Dr. Brosi via email at [bbrosi@uw.edu](bbrosi@uw.edu) with their research interests, reasons for pursuing graduate school, and a current CV.
+While each doctoral student is expected to develop their own research project, it should be somewhat related to the projects listed in our research page. Interested prospective graduate students should contact Dr. Brosi via email at [bbrosi@uw.edu](bbrosi@uw.edu) with their research interests, reasons for pursuing graduate school, and a current CV.
 
 ---
 

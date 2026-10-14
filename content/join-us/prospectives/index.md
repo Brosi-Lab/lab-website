@@ -1,6 +1,6 @@
 ---
 title: "Join the Lab!"
-weight: 3
+weight: 5
 subtitle: Interested in working with us? See below for more information for prospective students and post-docs
 excerpt: "More information for interested post-docs, graduate students, and undergraduate students"
 date: "" 
@@ -10,6 +10,8 @@ draft: false
 ---
 
 ## Post-docs
+
+**We are currently hiring a postdoctoral scholar.** See the [position description](/join-us/postdoc-2026/) for details and how to apply.
 
 We often have grant-funded opportunities for post-docs, and in addition we are very open to sponsoring prospective post-docs who come with external funding. Consider funding sources like the [Washington Research Foundation Post-Doc program](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/), the [NSF PRFB post-doc program](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb), the [Smith Fellows program](https://conbio.org/mini-sites/smith-fellows), and for international applicants, programs from your country or region (such as the [Marie Curie program](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) for EU citizens) and others such as the Human Frontiers Science Program. 
 

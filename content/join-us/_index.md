@@ -19,7 +19,7 @@ cascade:
     title: "Join the Brosi Lab!"
     author: 
     description: |
-      We are always looking for motivated, hard-working, interesting, and  interested people to join the lab. Have a look at our diversity statement, lab philosophy, as well as more information for prospective post-docs, graduate students, and undergraduates, on this page.
+      We are always looking for motivated, hard-working, interesting, and  interested people to join the lab. **We are currently hiring a postdoctoral scholar and a lab manager / research scientist**; see the position descriptions on this page. Also have a look at our diversity statement, lab philosophy, as well as more information for prospective post-docs, graduate students, and undergraduates.
     show_author_byline: false
     show_post_date: false
     text_link_label: ""

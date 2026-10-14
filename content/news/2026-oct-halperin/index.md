@@ -1,7 +1,7 @@
 ---
 title: "Berry named Halperin Professor"
 author: ""
-date: 2026-10-13
+date: 2026-10-01
 categories:
 tags: 
 ---

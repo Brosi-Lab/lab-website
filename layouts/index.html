@@ -14,7 +14,7 @@
         <div class="mt4 pa3 ba bw1 br3 b--current f5 lh-copy tl">{{ . | markdownify }}</div>
         {{ end }}
         {{ with .Params.description }}<p class="f4 mt4 lh-copy">{{ . | markdownify }}</p>{{ end }}
-        {{ with .Content }}<div class="f5 lh-copy">{{ . }}</div>{{ end }}
+        {{ with .Content }}<div class="f4 lh-copy">{{ . }}</div>{{ end }}
         {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
       </div>
       <div class="tr w-50-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
